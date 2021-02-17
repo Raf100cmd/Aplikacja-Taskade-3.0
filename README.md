@@ -4,3 +4,4 @@ Download our apps for iOS, Android, Mac, Linux, Windows.
 Taskade is simple, flexible, and free for individuals and teams.
 
 * **[Tescade 3.0](https://www.producthunt.com/posts/taskade-3-0?utm_source=badge-featured&utm_medium=badge&utm_souce=badge-taskade-3-0)**- _link to download the application_
+* **[Przypadki testowe - zakładka "Projets"](https://drive.google.com/file/d/1MsJnKPVABjw_NusiPgslROfwIldx41yy/view?usp=sharing)**
