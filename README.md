@@ -1,1 +1,1 @@
-# Aplikacja-Tescade.com
+# Aplikacja-Tescade
