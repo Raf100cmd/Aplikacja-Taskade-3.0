@@ -7,5 +7,5 @@ Taskade is simple, flexible, and free for individuals and teams.
 * **[Przypadki testowe - zakładka "Projects"](https://drive.google.com/file/d/10XSts0-FUxY-lFs0mZyBDHJFyJi88Cby/view?usp=sharing)**
 * **[Raporty defektów - zakładka "Projects"](https://drive.google.com/file/d/1xdq4LbNbEVlwAlFGz0xRHNXtjiILA-dU/view?usp=sharing)**
     * **Zrzuty z ekranów prezentujące odtwarzane defekty**
-        * [Pozycja 1. Zawieszenie się strony podczas dołączania pliku do projektu]()
+        * [Pozycja 1. Zawieszenie się strony podczas dołączania pliku do projektu](https://drive.google.com/file/d/1toSjJlg3SdeVHbNA-4_g6y5McHIoeRf4/view?usp=sharing)
         * [Pozycja 2. Możliwość ustawienia daty wstecznej, sprzed stworzenia projektu](https://drive.google.com/file/d/15hFZ8KA8J7xAjZYAkIvVFX8kh618EC8D/view?usp=sharing)
